@@ -1,4 +1,4 @@
 config:
-   info: spring-cloud-config  master branch config-dev.yml version=5
+   info: spring-cloud-config  master branch config-dev.yml version=6
 
 
